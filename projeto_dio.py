@@ -1,8 +1,7 @@
-﻿"""O código asseguir é um projeto enviado ao bootcamp Santander Week - DIO.
-O código visa simular uma cotação de financiamento de imóvel pelo Banco
-Santander.
-No corpo do código será abordado os conceitos aprendidos ao módulo Introdução
-à Ciência de Dados e Python.
+"""O código asseguir é um projeto enviado ao bootcamp Santander Week - DIO.
+O  projeto é.um código visa simular uma oferta de financiamento de imóvel.
+No corpo do código foi abordado os conceitos aprendidos no módulo
+Introdução à Ciência de Dados e Python..
 """
 # Passor a seguir para a relização da demanda:
 
